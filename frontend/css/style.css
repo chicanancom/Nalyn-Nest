@@ -1422,8 +1422,8 @@ a#scrollUp:hover {
 
 .test-content p,
 .test-info span {
-  color: #fff;
-  font-size: 16px;
+  color: rgb(0, 0, 0);
+  font-size: 13px;
 }
 
 .test-info a {
@@ -2027,7 +2027,7 @@ a#scrollUp:hover {
 .home3-single-test .test-content p,
 .home3-single-test .test-info span {
   color: #888888;
-  font-size: 16px;
+  font-size: 13px;
 }
 
 .home3-single-test .test-content {
