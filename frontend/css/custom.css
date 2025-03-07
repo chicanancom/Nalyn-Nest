@@ -324,7 +324,7 @@ a:hover {
 }
 .test-content p {
   font-style: italic;
-  color: rgb(139, 0, 0); /* Chữ màu trắng */
+  color: rgb(0, 0, 0); /* Chữ màu trắng */
   font-size: 13px; /* Điều chỉnh kích thước chữ theo nhu cầu */
   text-shadow: 2px 2px 9px black; /* Bóng đậm hơn và lớn hơn */
 }
